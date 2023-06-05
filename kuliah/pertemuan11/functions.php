@@ -1,5 +1,9 @@
 <?php
-define('BASE_URL', '/pw2023_223040045/kuliah/pertemuan11/');
+define('BASE_URL', '/pw2023_223040045/kuliah/pertemuan12/');
+
+function koneksi(){
+  
+}
 
 function dd($value)
 {
